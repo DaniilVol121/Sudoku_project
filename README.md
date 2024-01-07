@@ -11,4 +11,6 @@ My pipeline of work:
 
 How it looks like:
 I get:
-<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true" alt="alt text" width="300" height="200">
+
+<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true" alt="alt text" width="600" height="800">
+
