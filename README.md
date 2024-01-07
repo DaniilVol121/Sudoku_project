@@ -10,7 +10,8 @@ My pipeline of work:
 4) Draw solution on raw image.
 
 How it looks like:
+
 I get:
 
-<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true" alt="alt text" width="600" height="800">
+<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true" alt="alt text" width="300" height="400">
 
