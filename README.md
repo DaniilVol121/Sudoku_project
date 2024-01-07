@@ -13,5 +13,8 @@ How it looks like:
 
 I get:
 
-<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true" alt="alt text" width="300" height="400">
+<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true" alt="raw image of sudoku" width="300" height="400">
 
+And should make this with some algorithm with python code:
+
+<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/sudoku_solve.jpg?raw=true" alt="Solved sudoku" width="300" height="400">
