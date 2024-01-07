@@ -8,3 +8,7 @@ My pipeline of work:
 2) Detect numbers in little squares.
 3) With algorithm (https://github.com/maxme1/sudoku) solve puzzle
 4) Draw solution on raw image.
+
+How it looks like:
+I get:
+![alt text](https://github.com/DaniilVol121/Sudoku_project/train_2.jpg?raw=true)
