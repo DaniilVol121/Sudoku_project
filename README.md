@@ -1,4 +1,4 @@
-![sudoku_solve](https://github.com/DaniilVol121/Sudoku_project/assets/25688480/fbd30ea8-c068-4a38-8a81-0b0528f4e6b7)# Description
+# Description
 
 I got the task, where I have the image with sudoku puzzle. And I need to draw solution of puzzle on raw image.
 
@@ -13,11 +13,11 @@ How it looks like:
 
 I get:
 
-<img src="https://github.com/DaniilVol121/Sudoku_project/illustrations/blob/main/train_2.jpg?raw=true" alt="raw image of sudoku" width="300" height="400">
+<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/illustrations/train_2.jpg?raw=true" alt="raw image of sudoku" width="300" height="400">
 
 And should make this with some algorithm with python code (On example what I actually did):
 
-<img src="https://github.com/DaniilVol121/Sudoku_project/illustrations/blob/main/sudoku_solve.jpg?raw=true" alt="Solved sudoku" width="300" height="400">
+<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/illustrations/sudoku_solve.jpg?raw=true" alt="Solved sudoku" width="300" height="400">
 
 
 # Pipeline with image examples
