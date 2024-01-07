@@ -11,4 +11,4 @@ My pipeline of work:
 
 How it looks like:
 I get:
-![alt text](https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true)
+<img src="https://github.com/DaniilVol121/Sudoku_project/blob/main/train_2.jpg?raw=true" alt="alt text" width="300" height="200">
